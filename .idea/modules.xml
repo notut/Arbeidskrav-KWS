@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Arbeidskrav-KWS.iml" filepath="$PROJECT_DIR$/.idea/Arbeidskrav-KWS.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/Testalex.iml" filepath="$PROJECT_DIR$/untitled/Testalex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testnr2/testnr2.iml" filepath="$PROJECT_DIR$/testnr2/testnr2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testtttpush/testtttpush.iml" filepath="$PROJECT_DIR$/testtttpush/testtttpush.iml" />
     </modules>
   </component>
 </project>
